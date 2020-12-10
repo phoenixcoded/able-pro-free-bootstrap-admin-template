@@ -98,44 +98,9 @@ able-pro/
 ├── ... More
 ```
 
-<!--- ## RoadMap
-    
-We are continuously working in Able Pro Project and going to make it a awesome dashboard template via your support. Give us the ideas, suggestion for include more components, pages, plugins. Few of future release pages are
- 
-#### Layouts 
- - Vertical version
-    - Static
-    - Fixed
-    - Navbar Fixed
-    - Collapse Menu
-    - Vertical RTL
- - Horizontal version
- - Horizontal v2
- - Horizontal RTL
- - Box Layout
- - Navbar Dark
- - Dark Layout
- - Introduce Live Customizer (i.e. only for demo)
- 
-#### Pages
- - Pricing
- - Login/Register pages version 2
- - User profile
- - Maintenance Pages like Error Pages, Offline UI, Maintenance
-
-#### Basic & Advance Components
- - Alert, Button, Cards, Progress, Modal, Tabs & Pills
- - Datepicker, Notification, Slider
-
-*All above pages already included in Pro version. We need your support to include those pages in lite version too.* --->
-
 ## Author
 
 Design and code is completely written by Themeforest's design and development team. We are happy to welcome the contributors work for our all repositiories.
-
-<!--- ## Contributing
-```
-Please read [CONTRIBUTING.md](https://github.com/codedthemes/datta-able-bootstrap-dashboard/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us. --->
 
 ## Issues
 
@@ -147,14 +112,14 @@ Please generate Github issue if you found bug in any version. We are try to be r
 
 ## Other Dashboard Products
 
- <!--- - [Free Bootstrap 4 Admin Template](https://codedthemes.com/item/category/freebies/)
- - [Free Angular Dashboard Template](https://codedthemes.com/item/category/freebies/) --->
- - [Premium Bootstrap & Angular & React Admin Template](https://themeforest.net/user/phoenixcoded/portfolio)
+ - [Free Bootstrap 4 Admin Template](https://codedthemes.com/item/category/free-templates/free-bootstrap-admin-templates)
+ - [Free React Dashboard Template](https://codedthemes.com/item/category/free-templates/free-react-admin-templates)
+ - [Free Angular Dashboard Template](https://codedthemes.com/item/category/free-templates/free-angular-admin-templates)
+ - [Premium Bootstrap & Angular Admin Template](https://codedthemes.com/item/category/templates/admin-templates/)
  
 ## Social Profiles
-
- - Dribbble [https://dribbble.com/phoenixcoded](https://dribbble.com/phoenixcoded)
- - Behance [https://www.behance.net/phoenixcoded](https://www.behance.net/phoenixcoded)
- - Facebook [https://www.facebook.com/phoenixcoded](https://www.facebook.com/phoenixcoded)
- - Twitter [https://twitter.com/phoenixcoded](https://twitter.com/phoenixcoded)
- - Instagram [https://www.instagram.com/phoenixcoded/](https://www.instagram.com/phoenixcoded/)
+ - Dribbble [https://dribbble.com/codedthemes](https://dribbble.com/codedthemes)
+ - Behance [https://www.behance.net/codedthemes](https://www.behance.net/codedthemes)
+ - Facebook [https://www.facebook.com/codedthemes](https://www.facebook.com/codedthemes)
+ - Twitter [https://twitter.com/codedthemes](https://twitter.com/codedthemes)
+ - Instagram [https://www.instagram.com/codedthemes/](https://www.instagram.com/codedthemes/)
